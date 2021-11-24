@@ -11,7 +11,7 @@ const addHomeTextToDOM = () => {
     newArticle.classList.add("home");
     const newImg = document.createElement("img");
     newImg.id = "map";
-    newImg.src = "great-lakes-map.gif";
+    newImg.src = "./images/great-lakes-map.gif";
     newArticle.appendChild(newImg);
     homedata.forEach(par => {
         const newSection = document.createElement("section");
@@ -105,7 +105,7 @@ const addLosTextToDOM = () => {
     newArticle.classList.add("lossen");
     const newImg = document.createElement("img");
     newImg.id = "los";
-    newImg.src = "unloading_coal_animation2.gif";
+    newImg.src = "./images/unloading_coal_animation2.gif";
     newArticle.appendChild(newImg);
     const newDiv = document.createElement("div");
     newDiv.classList.add("video");
@@ -137,7 +137,7 @@ const addVideoTextToDOM = () => {
     newDivText.innerText = camtext;
     newDivCam.appendChild(newDivText);
     const newImg = document.createElement("img");
-    newImg.src = "cameras.gif";
+    newImg.src = "./images/cameras.gif";
     newDivCam.appendChild(newImg);
     newArticle.appendChild(newDivCam);
     camdata.forEach(camera => {
