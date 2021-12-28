@@ -35,7 +35,7 @@ const camdata = [
         plaats: "Port Huron, Michigan",
         positie: "C",
         info: "De camera staat op het dak van het Blue Water Convention Center en heeft uitzicht op de Blue Water Bridge over de St Clair River",
-        youtube: "https://www.youtube.com/embed/3uWsrahpmLo"
+        youtube: "https://www.youtube.com/embed/uaUBq5UEpvo"
     },
     {
         plaats: "Sault Ste Marie, Michigan",
