@@ -40,7 +40,7 @@ const camdata = [
     {
         plaats: "Sault Ste Marie, Michigan",
         positie: "B",
-        info: "De camera is bevestigd op de Tower of History, en geeft een uitzicht over de St Mary's River en de Soo Lock-sluizen.",
+        info: "De camera is bevestigd op de Tower of History, en geeft een uitzicht over de St Mary's River en de Soo Locks-sluizen.",
         youtube: "https://www.youtube.com/embed/wXZnp3lfu8o"
     },
     {
@@ -67,10 +67,10 @@ const camdata = [
         info: "De camera filmt vanaf het Dossin Museum op het Belle Isle in de Detroit River.",
         youtube: "https://www.youtube.com/embed/994mtws8RNw"
     },
-    {
-        plaats: "Superior, Wisconsin",
-        positie: "A",
-        info: "De camera filmt de in- en uitgang van Lake Superior naar de gecombineerde haven van Duluth en Superior vanaf de Wisconsin-kant.",
-        youtube: "https://www.youtube.com/embed/mMl9t1tal8g"
-    }
+    // {
+    //     plaats: "Superior, Wisconsin",
+    //     positie: "A",
+    //     info: "De camera filmt de in- en uitgang van Lake Superior naar de gecombineerde haven van Duluth en Superior vanaf de Wisconsin-kant.",
+    //     youtube: "https://www.youtube.com/embed/"
+    // }
 ];
