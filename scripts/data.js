@@ -41,7 +41,7 @@ const camdata = [
         plaats: "Sault Ste Marie, Michigan",
         positie: "B",
         info: "De camera is bevestigd op de Tower of History, en geeft een uitzicht over de St Mary's River en de Soo Locks-sluizen.",
-        youtube: "https://www.youtube.com/embed/wXZnp3lfu8o"
+        youtube: "https://www.youtube.com/embed/3AWBZSD9P-Y"
     },
     {
         plaats: "Duluth, Minnesota",
