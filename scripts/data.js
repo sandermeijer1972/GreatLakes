@@ -59,13 +59,13 @@ const camdata = [
         plaats: "Marine City, Michigan",
         positie: "D",
         info: "De camera staat op het dak van het Marine City Water Works, en geeft uitzicht over de St Clair River.",
-        youtube: "https://www.youtube.com/embed/eDgIVGb_N38"
+        youtube: "https://www.youtube.com/embed/jzIj6RJLHUI"
     },
     {
         plaats: "Detroit, Michigan",
         positie: "E",
         info: "De camera filmt vanaf het Dossin Museum op het Belle Isle in de Detroit River.",
-        youtube: "https://www.youtube.com/embed/994mtws8RNw"
+        youtube: "https://www.youtube.com/embed/ETiZtXbM22M"
     },
     {
         plaats: "Superior, Wisconsin",
