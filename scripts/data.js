@@ -65,7 +65,7 @@ const camdata = [
         plaats: "Detroit, Michigan",
         positie: "E",
         info: "De camera filmt vanaf het Dossin Museum op het Belle Isle in de Detroit River.",
-        youtube: "https://www.youtube.com/embed/ETiZtXbM22M"
+        youtube: "https://www.youtube.com/embed/59KKD18IJVI"
     },
     {
         plaats: "Superior, Wisconsin",
